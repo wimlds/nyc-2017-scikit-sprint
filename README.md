@@ -7,7 +7,7 @@
 * Refreshments sponsored by **Bloomberg**  
 
 #### Host:  
-* [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml))  
+* [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml)) (Webpage:  [http://amueller.github.io/](http://amueller.github.io/))  
 
 #### Teaching Assistants:  
 * Vighnesh Nandan Birodkar
