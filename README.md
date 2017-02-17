@@ -37,4 +37,5 @@ Join the [scikit-learn Gitter community](https://gitter.im/scikit-learn/home).
 #### 4.  Review Open Issues 
 * [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
 * go through some [open issues](https://github.com/scikit-learn/scikit-learn/issues) and become familiar with them 
+The link to issues should probably mention that easy issues are most appropriate for the sprint, and that often issues that don't have anyone assigned have the "need contributor" label. Maybe you can change the link to point to "easy" issues.
 
