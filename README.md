@@ -1,3 +1,5 @@
+![scikit](images/scikit-learn-logo.jpg)
+
 # Scikit-learn Sprint  
  
 [WiMLDS Meetup Event (March 4, 2017)](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/)  
