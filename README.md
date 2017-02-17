@@ -1,4 +1,4 @@
-![scikit](images/scikit-learn-logo.jpg)
+![scikit](images/scikit-learn-logo.png)
 
 # Scikit-learn Sprint  
  
