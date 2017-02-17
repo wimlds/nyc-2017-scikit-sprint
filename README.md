@@ -36,7 +36,7 @@ Join the [scikit-learn Gitter community](https://gitter.im/scikit-learn/home).
 
 #### 4.  Review Open Issues 
 * [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
-* There are over 750 issues.  For the sprint, we will focus on issues with the label "easy" and "Need Contributor"
+* There are over 750 issues.  For the sprint, we will focus on issues with the labels:  **easy** and **Need Contributor**
 * go through some ['easy'-label open issues](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy) and become familiar with them 
 
 
