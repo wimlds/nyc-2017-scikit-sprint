@@ -1,8 +1,18 @@
 # Scikit-learn Sprint  
  
----
+[WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/)  
 
-[WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/)
+Sponsors:  
+* Space Sponsored by **Stack Exchange**  
+* Refreshments sponsored by **Bloomberg**  
+
+Host:  
+* [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml))  
+
+Teaching Assistants:  
+* Vighnesh Nandan Birodkar
+* Manoj Kumar
+* Ritesh Bansal
 
 ---
 
