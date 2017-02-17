@@ -1,4 +1,4 @@
-![scikit](images/scikit-learn-logo.png)
+![wimlds](images/Logo-blue.png)   <sp> </sp> <sp> ![scikit](images/scikit-learn-logo.png)
 
 # Scikit-learn Sprint  
  
