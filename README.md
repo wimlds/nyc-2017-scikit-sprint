@@ -4,6 +4,8 @@
 
 [WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/)
 
+---
+
 ### Preparation
 
 #### 1.  GitHub Account
