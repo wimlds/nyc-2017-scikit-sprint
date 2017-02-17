@@ -1,6 +1,6 @@
 # Scikit-learn Sprint  
  
-[WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/)  
+[WiMLDS Meetup Event (March 4, 2017)](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/)  
 
 #### Sponsors:  
 * Space Sponsored by **Stack Exchange**  
