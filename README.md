@@ -22,5 +22,6 @@ Join the [scikit-learn Gitter community](https://gitter.im/scikit-learn/home).
 * it is approximately 16 pages
 
 #### 4.  Review Open Issues 
-* go through some Issues and become familiar with them 
-* https://github.com/scikit-learn/scikit-learn/issues
+* [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
+* go through some [open issues](https://github.com/scikit-learn/scikit-learn/issues) and become familiar with them 
+
