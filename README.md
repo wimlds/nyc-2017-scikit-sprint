@@ -9,7 +9,10 @@
 ### Preparation
 
 #### 1.  GitHub Account
-Open an account on [GitHub](https://github.com/).
+- Open an account on [GitHub](https://github.com/)
+- some familiarity with Git / GitHub 
+- review some Git resources prior to event 
+- we'll go over pull requests at beginning of event
 
 #### 2.  Join Gitter
 Join the [scikit-learn Gitter community](https://gitter.im/scikit-learn/home).  
