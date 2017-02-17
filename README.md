@@ -17,8 +17,8 @@
 #### 2.  Join Gitter
 Join the [scikit-learn Gitter community](https://gitter.im/scikit-learn/home).  
 
-#### 3.  Read thru "Contributing" documentation 
-* http://scikit-learn.org/stable/developers/contributing.html 
+#### 3.  Read thru documentation 
+* [scikit-learn *Contributing* documentation](http://scikit-learn.org/stable/developers/contributing.html)
 * it is approximately 16 pages
 
 #### 4.  Review Open Issues 
