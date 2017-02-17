@@ -14,6 +14,9 @@
 * Manoj Kumar
 * Ritesh Bansal
 
+#### Organizer:
+* Reshama Shaikh 
+
 ---
 
 ### Preparation
