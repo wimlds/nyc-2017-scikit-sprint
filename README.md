@@ -1,6 +1,5 @@
-# scikit-sprint
-NYC Scikit-learn Sprint  
-March 2017  
+# Scikit-learn Sprint  
+ 
 
 ---
 
