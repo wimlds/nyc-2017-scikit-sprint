@@ -35,7 +35,7 @@ Andreas will create a separate channel just for this sprint.
 
 Preparation
 
-1.  Read through the 16 pages of Scikit-learn Contributing Documentation
+1.  Read through the [16 pages of Scikit-learn Contributing Documentation](http://scikit-learn.org/stable/developers/contributing.html)
 
 2.  There are over 750 open issues.  For the sprint, we'll be focusing on those which are labeled "easy" and "Need Contributor".  Take some time (15-20 minutes) to look over some of these issues prior to the event:  https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy
 
