@@ -1,7 +1,7 @@
 
 Hello,
 
-You're receiving this email because you have RSVPd "yes" for the scikit-learn sprint on Saturday, March 4.
+You're receiving this email because you have RSVPd "yes" for the [scikit-learn sprint on Saturday, March 4](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/).
 
 Please read all the notes below in preparation for this event:
 
@@ -41,7 +41,7 @@ Andreas will create a separate channel just for this sprint.
 
 #### Raffle
 
-Bring your business cards.  We have some t-shirts from the upcoming MLConf that we'll be raffling.  (18% Early Bird Registration Here Ends Feb 28)
+Bring your business cards.  We have some t-shirts from the upcoming [MLConf](http://mlconf.com/events/new-york-city-ny-2/) that we'll be raffling.  ([18% Early Bird Registration Here Ends Feb 28](https://www.eventbrite.com/e/mlconf-nyc-2017-tickets-30087951874?discount=WiML18))
 
 
 #### RSVPs
