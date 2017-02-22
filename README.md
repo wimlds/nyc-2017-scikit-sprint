@@ -31,7 +31,9 @@
 - we'll go over pull requests at beginning of event
 
 #### 2.  Join Gitter
-Join the [scikit-learn Gitter community](https://gitter.im/scikit-learn/home).  
+Join the [scikit-learn Gitter community]
+* [scikit-learn](https://gitter.im/scikit-learn/home)
+* [wimlds](https://gitter.im/scikit-learn/wimlds)
 
 #### 3.  Read thru documentation 
 * [scikit-learn *Contributing* documentation](http://scikit-learn.org/stable/developers/contributing.html)
