@@ -7,7 +7,7 @@ Please read all the notes below in preparation for this event:
 
 #### Git
 
-I'm offering a workshop on Thursday, February 23rd thought PyLadies.  If you have time and would like more experience with Git prior to the sprint, sign up for this workshop:  https://www.meetup.com/NYC-PyLadies/events/237446660/
+I'm offering a workshop on Thursday, February 23rd through PyLadies.  If you have time and would like more experience with Git prior to the sprint, sign up for this workshop:  https://www.meetup.com/NYC-PyLadies/events/237446660/
 
 
 #### Blogs
