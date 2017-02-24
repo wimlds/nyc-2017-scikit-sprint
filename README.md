@@ -14,7 +14,6 @@
 
 #### Teaching Assistants:  
 * Vighnesh Nandan Birodkar
-* Manoj Kumar
 * Ritesh Bansal
 
 #### Organizer:
