@@ -43,4 +43,16 @@ Join the [scikit-learn Gitter community]
 * There are over 750 issues.  For the sprint, we will focus on issues with the labels:  **easy** and **Need Contributor**
 * go through some ['easy'-label open issues](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy) and become familiar with them 
 
+---
 
+### Twitter
+
+Please feel free to take photos and tweet about the event.
+
+WiMLDS:  https://twitter.com/wimlds
+
+Stack Exchange:  https://twitter.com/StackExchange
+
+Andreas Mueller:  https://twitter.com/amuellerml
+
+scikit-learn:  https://twitter.com/scikit_learn
