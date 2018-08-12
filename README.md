@@ -52,10 +52,10 @@ Join the [scikit-learn Gitter community]
 
 Please feel free to take photos and tweet about the event.
 
-WiMLDS:  https://twitter.com/wimlds
+WiMLDS:  [@wimlds](https://twitter.com/wimlds)
 
-Stack Exchange:  https://twitter.com/StackExchange
+Stack Exchange: [@StackExchange](https://twitter.com/StackExchange)
 
-Andreas Mueller:  https://twitter.com/amuellerml
+Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
 
-scikit-learn:  https://twitter.com/scikit_learn
+scikit-learn:  [@scikit_learn](https://twitter.com/scikit_learn)
