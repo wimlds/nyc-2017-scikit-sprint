@@ -59,3 +59,6 @@ Stack Exchange: [@StackExchange](https://twitter.com/StackExchange)
 Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
 
 scikit-learn:  [@scikit_learn](https://twitter.com/scikit_learn)
+
+### Blog
+- Blog by Noemi Derzsy:  http://wimlds.org/noemi-derzsy-scikit-learn-sprint/
