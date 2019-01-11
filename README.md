@@ -16,8 +16,8 @@
 * [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml)) (Webpage:  [http://amueller.github.io/](http://amueller.github.io/))  
 
 #### Teaching Assistants:  
-* Vighnesh Nandan Birodkar
-* Ritesh Bansal
+* [Vighnesh Nandan Birodkar](https://www.linkedin.com/in/vighnesh-birodkar-71b7818/)
+* [Ritesh Bansal](https://www.linkedin.com/in/ritesh-bansal/)
 
 #### Organizer:
 * Reshama Shaikh 
